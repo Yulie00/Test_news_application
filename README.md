@@ -1,4 +1,4 @@
-# Дипломный проект по профессии [«Инженер по тестированию»](https://github.com/netology-code/qamid-diplom/tree/main)
+# Проект по тестированию
 
 <br>
 
